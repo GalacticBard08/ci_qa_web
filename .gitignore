@@ -1,0 +1,7 @@
+# TODO #
+.idea
+__pycache__
+webdriver
+.pytest_cache
+web/tests/geckodriver.log
+geckodriver.log
